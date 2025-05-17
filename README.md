@@ -130,11 +130,3 @@ src/
 Contributions, issues, and feature requests are welcome!
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you want sample CSV/XML data formats or further assistance, feel free to ask!
